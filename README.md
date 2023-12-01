@@ -6,7 +6,7 @@
 appsettings.json - "DevConnection": "Server=localhost\\SQLEXPRESS;Database=mstecs;Trusted_Connection=True;"
 ```
 
-### El proyecto caraga en en automativo las migraciones
+### El proyecto caraga en en automatico las migraciones
 
 Email: userOrganization1@Organization1.com
 Password: 123Pa$$word!
