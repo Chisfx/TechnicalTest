@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\bin\Debug\net6.0\TechnicalTest.Application.deps.json
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\bin\Debug\net6.0\TechnicalTest.Application.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\bin\Debug\net6.0\TechnicalTest.Application.pdb
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\bin\Debug\net6.0\TechnicalTest.Domain.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\bin\Debug\net6.0\TechnicalTest.Domain.pdb
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\refint\TechnicalTest.Application.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\TechnicalTest.Application.pdb
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Application\obj\Debug\net6.0\ref\TechnicalTest.Application.dll

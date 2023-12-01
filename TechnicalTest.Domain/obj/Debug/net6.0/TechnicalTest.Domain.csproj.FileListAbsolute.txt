@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\bin\Debug\net6.0\TechnicalTest.Domain.deps.json
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\bin\Debug\net6.0\TechnicalTest.Domain.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\bin\Debug\net6.0\TechnicalTest.Domain.pdb
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\refint\TechnicalTest.Domain.dll
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\TechnicalTest.Domain.pdb
+C:\Users\Usuario\source\repos\TechnicalTest\TechnicalTest.Domain\obj\Debug\net6.0\ref\TechnicalTest.Domain.dll
