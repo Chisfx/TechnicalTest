@@ -1,10 +1,4 @@
 # TechnicalTest
- 
-### Configurar conexion a bases de datos SQL Server 
-
-```
-appsettings.json - "DevConnection": "Server=localhost\\SQLEXPRESS;Database=mstecs;Trusted_Connection=True;"
-```
 
 ### El proyecto caraga en en automatico las migraciones
 
